@@ -109,4 +109,4 @@ logs/
 media/
 .settings/
 secrets.py
-
+*~
