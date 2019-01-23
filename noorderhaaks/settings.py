@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'noorderhaaks',
     'acacia',
     'acacia.data',
+    'acacia.data.knmi'
 ]
 
 MIDDLEWARE = [
