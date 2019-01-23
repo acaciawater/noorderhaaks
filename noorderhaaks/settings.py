@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'noorderhaaks',
     'acacia',
     'acacia.data',
-    'acacia.data.knmi'
+    'acacia.data.knmi',
+    'acacia.validation' # for automatic filtering
 ]
 
 MIDDLEWARE = [
